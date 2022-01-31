@@ -1,1 +1,10 @@
-""
+local UpdateLogTable = {}
+
+Updates = {
+"Hi",
+"Bye",
+"test1"
+}
+
+
+return UpdateLogTable
