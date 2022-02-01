@@ -1,10 +1,2 @@
-local UpdateLogTable = {}
+{"Hi", "Bye","test1"}
 
-Updates = {
-"Hi",
-"Bye",
-"test1"
-}
-
-
-return UpdateLogTable
