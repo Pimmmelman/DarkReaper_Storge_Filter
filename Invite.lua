@@ -1,1 +1,1 @@
-"https://discord.gg/E6BZ8BGKDV"
+https://discord.gg/E6BZ8BGKDV
