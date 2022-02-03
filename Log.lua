@@ -1,1 +1,1 @@
-{"Hi", "Bye","test1"}
+["Hi", "Bye","test1"]
